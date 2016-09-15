@@ -423,3 +423,12 @@ Small Device Styles
   }
 
 }
+
+/**************** EDIT ********************/
+
+.menu li{
+  text-align: inline;
+  margin:20px;
+  font-size:18pt;
+  
+}
