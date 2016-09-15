@@ -427,7 +427,7 @@ Small Device Styles
 /**************** EDIT ********************/
 
 .menu li{
-  dislay: inline;
+  display: inline;
   margin:20px;
   font-size:18pt;
   
