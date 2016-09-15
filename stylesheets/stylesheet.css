@@ -29,6 +29,22 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
+
+/**************** EDIT ********************/
+
+.menu li{
+  display: inline;
+  margin:20px;
+  font-size:18pt;
+  list-style:none;
+  
+}
+
+.menu{
+text-align:center;
+  
+}
+
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -424,12 +440,4 @@ Small Device Styles
 
 }
 
-/**************** EDIT ********************/
 
-.menu li{
-  display: inline;
-  margin:20px;
-  font-size:18pt;
-  list-style:none;
-  
-}
