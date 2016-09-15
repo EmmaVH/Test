@@ -56,11 +56,11 @@ text-align:center;
 }
 
 .menu li:hover{
-  background:grey;
+  background:#B1B2B2;
 }
 
 .menu li:hover a{
-  color black;
+  color: black;
 }
 
 /* HTML5 display-role reset for older browsers */
