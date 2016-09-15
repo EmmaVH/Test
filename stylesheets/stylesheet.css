@@ -37,7 +37,7 @@ time, mark, audio, video {
   margin:20px;
   font-size:18pt;
   list-style:none;
-  border:2px solid grey;
+  border:2px solid #B1B2B2;
   border-radius: 8px;
   padding:8px;
   
@@ -48,7 +48,7 @@ text-align:center;
 }
 
 .menu a{
-  color:grey;
+  color:#B1B2B2;
 }
 
 .menu a:hover{
