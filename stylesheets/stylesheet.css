@@ -423,3 +423,12 @@ Small Device Styles
   }
 
 }
+
+/************************ EDIT **************************/
+
+
+li {
+    display: inline;
+    font-size: 20pt;
+    margin: 20px;
+}
