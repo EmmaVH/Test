@@ -306,6 +306,7 @@ Full-Width Styles
   padding: 20px 10px;
   margin: 0 auto;
   float: left;
+  margin:2%;
 }
 .inner .copyright {
   position: relative;
