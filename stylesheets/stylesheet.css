@@ -40,6 +40,7 @@ time, mark, audio, video {
   border:2px solid #B1B2B2;
   border-radius: 8px;
   padding:8px;
+  transition: all 0.5s ease 0s;
   
 }
 
@@ -49,6 +50,7 @@ text-align:center;
 
 .menu a{
   color:#B1B2B2;
+  transition: all 0.5s ease 0s;
 }
 
 .menu a:hover{
