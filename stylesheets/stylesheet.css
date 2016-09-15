@@ -56,10 +56,12 @@ text-align:center;
 }
 
 .menu li:hover{
-  background:#B1B2B2;
-  color:black;
+  background:grey;
 }
 
+.menu li:hover a{
+  color black;
+}
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
