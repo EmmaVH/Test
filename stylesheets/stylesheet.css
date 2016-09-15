@@ -55,6 +55,10 @@ text-align:center;
   text-decoration:none;
 }
 
+.menu li:hover{
+  background:#B1B2B2;
+}
+
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
