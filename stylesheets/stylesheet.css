@@ -42,8 +42,16 @@ time, mark, audio, video {
 
 header ul{
 text-align:center;
-  
 }
+
+.menu a{
+  color:grey;
+}
+
+.menu a:hover{
+  text-decoration:none;
+}
+
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
