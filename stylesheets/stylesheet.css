@@ -38,6 +38,8 @@ time, mark, audio, video {
   font-size:18pt;
   list-style:none;
   border:2px solid grey;
+  border-radius: 8px;
+  padding:8px;
   
 }
 
