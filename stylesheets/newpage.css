@@ -45,7 +45,8 @@ time, mark, audio, video {
 }
 
 section{
-
+  width:90%;
+  left:45%;
 }
 
 header ul{
@@ -306,7 +307,7 @@ Full-Width Styles
 
 #sidebar, #main_content.inner {
   position: relative;
-  max-width: 40%;
+  max-width: 42%;
   padding: 20px 10px;
   margin: 0 auto;
   float: left;
