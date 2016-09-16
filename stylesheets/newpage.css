@@ -45,8 +45,9 @@ time, mark, audio, video {
 }
 
 section{
+  position:relative;
   width:90%;
-  left:45%;
+  left:5%;
 }
 
 header ul{
